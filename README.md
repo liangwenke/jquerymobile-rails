@@ -34,3 +34,16 @@ The following will need to be added to the file `app/assets/stylesheets/applicat
 
 This gem does not support Rails versions preceeding 3.1.
 
+## Future Work
+
+This gem looks to serve not only as a means of elegantly incorportating jQueryMobile into your 
+application but as well, a means of incorporating additional promanant jquerymobile resources!
+
+### In Progress
+In progress development tasks include:
+
+* Incorporating [jQueryMobile Icon Pack](https://github.com/commadelimited/jQuery-Mobile-Icon-Pack)
+
+### Suggestions
+Please let us know if you have suggestions contact RubyGems@RudyIndustries.com.  The google group is publically vieable
+[here](https://groups.google.com/a/rudyindustries.com/group/RubyGems/topics). Thanks!
