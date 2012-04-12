@@ -2,11 +2,14 @@
 
 jQueryMobile! For Rails! So Greate.
 
+### Description
+
+This gem incorporates the jQueryMobile assets into your Rails application.
 This gem provides:
 
 * jQueryMobile 1.1.0.rc2
 
-### Installation
+## Installation
 
 In your Gemfile, add this line:
 
@@ -14,7 +17,7 @@ In your Gemfile, add this line:
 
 Then, run `bundle install`. 
 
-# Rails > 3.1
+## Rails >= 3.1
 
 For Rails 3.1 and greater, the files will be added to the asset pipeline and available for you to use. 
 
