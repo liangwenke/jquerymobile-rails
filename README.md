@@ -17,7 +17,7 @@ In your Gemfile, add this line:
 
 Then, run `bundle install`. 
 
-## Rails >= 3.1
+### Rails >= 3.1
 
 For Rails 3.1 and greater, the files will be added to the asset pipeline and available for you to use. 
 
@@ -30,7 +30,7 @@ The following will need to be added to the file `app/assets/stylesheets/applicat
     *= require jquerymobile
 
 
-## Rails \< 3.1
+### Rails \< 3.1
 
 This gem does not support Rails versions preceeding 3.1.
 
