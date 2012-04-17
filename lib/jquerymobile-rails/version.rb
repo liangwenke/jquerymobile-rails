@@ -1,7 +1,7 @@
 module JqueryMobile
   module Rails
     major = 0
-    minor = 1
+    minor = 2
     tiny  = 0
     #pre   = "a"
 
