@@ -7,7 +7,7 @@ jQueryMobile! For Rails! So Greate.
 This gem incorporates the jQueryMobile assets into your Rails application.
 This gem provides:
 
-* jQueryMobile 1.1.0.rc2
+* jQueryMobile 1.1.0
 
 ## Installation
 
