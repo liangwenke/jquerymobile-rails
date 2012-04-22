@@ -9,8 +9,8 @@ Gem::Specification.new do |s|
   s.authors     = ["Kurt Rudolph"]
   s.email       = ["RubyGems@rudyindustries.com"]
   s.homepage    = "http://rudyindustries.github.com/jquerymobile-rails"
-  s.summary     = "jQueryMobile! For Rails! So Greate."
-  s.description = "This gem incorporates the jQueryMobile assets into your Rails application."
+  s.summary     = "jQueryMobile! For Rails! So Great."
+  s.description = "This gem incorporates jQueryMobile into the assets of your Rails application."
 
   s.files        = `git ls-files`.split("\n")
   s.executables  = `git ls-files`.split("\n").select{|f| f =~ /^bin/}
