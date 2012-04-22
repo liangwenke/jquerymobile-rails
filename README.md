@@ -34,6 +34,11 @@ The following will need to be added to the file `app/assets/stylesheets/applicat
 
 This gem does not support Rails versions preceeding 3.1.
 
+## Bugs
+
+Please submit bugs any bugs found in the project [here](https://github.com/RudyIndustries/jquerymobile-rails/issues), 
+we appreaciate your help improving jQueryMobile-Rails.
+
 ## Future Work
 
 This gem looks to serve not only as a means of elegantly incorportating jQueryMobile into your 
