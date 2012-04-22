@@ -1,6 +1,6 @@
 # jQueryMobile-rails 
 
-jQueryMobile! For Rails! So Greate.
+jQueryMobile! For Rails! So Great.
 
 ### Description
 
