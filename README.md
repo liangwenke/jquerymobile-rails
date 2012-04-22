@@ -45,5 +45,5 @@ In progress development tasks include:
 * Incorporating [jQueryMobile Icon Pack](https://github.com/commadelimited/jQuery-Mobile-Icon-Pack)
 
 ### Suggestions
-Please let us know if you have suggestions contact RubyGems@RudyIndustries.com.  The google group is publically vieable
-[here](https://groups.google.com/a/rudyindustries.com/group/RubyGems/topics). Thanks!
+Please let us know if you have suggestions contact jQueryMobile-Rails.RubyGems@RudyIndustries.com.  The google group is publically vieable
+[here](https://groups.google.com/a/rudyindustries.com/group/jQueryMobile-Rails.RubyGems/topics). Thanks!
