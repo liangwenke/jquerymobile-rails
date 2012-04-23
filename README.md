@@ -28,7 +28,10 @@ The following will need to be added to the file `app/assets/javascripts/applicat
 The following will need to be added to the file `app/assets/stylesheets/application.css`:
 
     *= require jquerymobile
+    
+The following will need to be added to the `%head` tag of the file `app/views/layouts/applicaion.html.haml`:
 
+    %meta{ name: :viewport, content: 'width=device-width, initial-scale=1'}
 
 ### Rails \< 3.1
 
