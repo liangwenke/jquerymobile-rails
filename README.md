@@ -35,7 +35,11 @@ The following will need to be added to the `%head` tag of the file `app/views/la
 
 ### Rails \< 3.1
 
-This gem does not support Rails versions preceeding 3.1.
+This gem does not support Rails versions preceding 3.1.
+
+## Documentation
+
+Documentation for this project may be accessed through it's RubyGems Site [here](https://rubygems.org/gems/jquerymobile-rails/).
 
 ## Bugs
 
