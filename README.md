@@ -1,4 +1,4 @@
-# jQueryMobile-rails 
+# jQueryMobile-Rails 
 
 jQueryMobile! For Rails! So Great.
 
