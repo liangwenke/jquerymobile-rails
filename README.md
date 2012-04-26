@@ -55,3 +55,7 @@ In progress development tasks include:
 ### Suggestions
 If you have suggestions please contact jQueryMobile-Rails.RubyGems@RudyIndustries.com.  The google group is publically vieable
 [here](https://groups.google.com/a/rudyindustries.com/group/jQueryMobile-Rails.RubyGems/topics). Thanks!
+
+### Donate
+
+<a href='http://www.pledgie.com/campaigns/17244'><img alt='Click here to lend your support to: Rudy Industries Open Source Projects and make a donation at www.pledgie.com !' src='http://www.pledgie.com/campaigns/17244.png?skin_name=chrome' border='0' /></a>
