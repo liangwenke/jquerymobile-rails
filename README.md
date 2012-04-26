@@ -39,7 +39,7 @@ This gem does not support Rails versions preceeding 3.1.
 
 ## Bugs
 
-Please submit bugs any bugs found in the project [here](https://github.com/RudyIndustries/jquerymobile-rails/issues), 
+Please submit bugs any bugs found in jQueryMobile-Rails [here](https://github.com/RudyIndustries/jquerymobile-rails/issues), 
 we appreaciate your help improving jQueryMobile-Rails.
 
 ## Future Work
@@ -53,5 +53,5 @@ In progress development tasks include:
 * Incorporating [jQueryMobile Icon Pack](https://github.com/commadelimited/jQuery-Mobile-Icon-Pack)
 
 ### Suggestions
-Please let us know if you have suggestions contact jQueryMobile-Rails.RubyGems@RudyIndustries.com.  The google group is publically vieable
+If you have suggestions please contact jQueryMobile-Rails.RubyGems@RudyIndustries.com.  The google group is publically vieable
 [here](https://groups.google.com/a/rudyindustries.com/group/jQueryMobile-Rails.RubyGems/topics). Thanks!
