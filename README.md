@@ -15,7 +15,9 @@ In your Gemfile, add this line:
 
     gem "jquerymobile-rails"
 
-Then, run `bundle install`. 
+Then, run 
+
+    $ bundle install
 
 ### Rails >= 3.1
 
