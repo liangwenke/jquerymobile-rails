@@ -1,0 +1,118 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>jQueryMobile-Rails by RudyIndustries</title>
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="javascripts/respond.js"></script>
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!--[if lt IE 8]>
+    <link rel="stylesheet" href="stylesheets/ie.css">
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+  </head>
+  <body>
+      <div id="header">
+        <nav>
+          <li class="fork"><a href="https://github.com/RudyIndustries/jquerymobile-rails">View On GitHub</a></li>
+          <li class="downloads"><a href="https://github.com/RudyIndustries/jquerymobile-rails/zipball/master">ZIP</a></li>
+          <li class="downloads"><a href="https://github.com/RudyIndustries/jquerymobile-rails/tarball/master">TAR</a></li>
+          <li class="title">DOWNLOADS</li>
+        </nav>
+      </div><!-- end header -->
+
+    <div class="wrapper">
+
+      <section>
+        <div id="title">
+          <h1>jQueryMobile-Rails</h1>
+          <p>jQueryMobile! For Rails! So Great.</p>
+          <hr>
+          <span class="credits left">Project maintained by <a href="https://github.com/RudyIndustries">RudyIndustries</a></span>
+          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="http://twitter.com/#!/michigangraham">mattgraham</a></span>
+        </div>
+
+        <h3>Description</h3>
+
+<p>This gem incorporates the jQueryMobile assets into your Rails application.
+This gem provides:</p>
+
+<ul>
+<li>jQueryMobile 1.1.0</li>
+</ul><h2>Installation</h2>
+
+<p>In your Gemfile, add this line:</p>
+
+<pre><code>gem "jquerymobile-rails"
+</code></pre>
+
+<p>Then, run </p>
+
+<pre><code>$ bundle install
+</code></pre>
+
+<h3>Rails &gt;= 3.1</h3>
+
+<p>For Rails 3.1 and greater, the files will be added to the asset pipeline and available for you to use. </p>
+
+<p>The following will need to be added to the file <code>app/assets/javascripts/application.js</code>:</p>
+
+<pre><code>//= require jquerymobile
+</code></pre>
+
+<p>The following will need to be added to the file <code>app/assets/stylesheets/application.css</code>:</p>
+
+<pre><code>*= require jquerymobile
+</code></pre>
+
+<p>The following will need to be added to the <code>%head</code> tag of the file <code>app/views/layouts/applicaion.html.haml</code>:</p>
+
+<pre><code>%meta{ name: :viewport, content: 'width=device-width, initial-scale=1'}
+</code></pre>
+
+<h3>Rails &lt; 3.1</h3>
+
+<p>This gem does not support Rails versions preceding 3.1.</p>
+
+<h2>Documentation</h2>
+
+<p>Documentation for this project may be accessed through it's RubyGems Site <a href="https://rubygems.org/gems/jquerymobile-rails/">here</a>.</p>
+
+<h2>Bugs</h2>
+
+<p>Please submit bugs any bugs found in jQueryMobile-Rails <a href="https://github.com/RudyIndustries/jquerymobile-rails/issues">here</a>, 
+we appreaciate your help improving jQueryMobile-Rails.</p>
+
+<h2>Future Work</h2>
+
+<p>This gem looks to serve not only as a means of elegantly incorportating jQueryMobile into your 
+application but as well, a means of incorporating additional promanant jquerymobile resources!</p>
+
+<h3>In Progress</h3>
+
+<p>In progress development tasks include:</p>
+
+<ul>
+<li>Incorporating <a href="https://github.com/commadelimited/jQuery-Mobile-Icon-Pack">jQueryMobile Icon Pack</a>
+</li>
+</ul><h3>Suggestions</h3>
+
+<p>If you have suggestions please contact <a href="mailto:jQueryMobile-Rails.RubyGems@RudyIndustries.com">jQueryMobile-Rails.RubyGems@RudyIndustries.com</a>.  The google group is publically vieable
+<a href="https://groups.google.com/a/rudyindustries.com/group/jQueryMobile-Rails.RubyGems/topics">here</a>. Thanks!</p>
+
+<h3>Donate</h3>
+
+<p><a href="http://www.pledgie.com/campaigns/17244"><img alt="Click here to lend your support to: Rudy Industries Open Source Projects and make a donation at www.pledgie.com !" src="http://www.pledgie.com/campaigns/17244.png?skin_name=chrome" border="0"></a></p>
+      </section>
+
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><!--<![endif]-->
+    
+  </body>
+</html>
